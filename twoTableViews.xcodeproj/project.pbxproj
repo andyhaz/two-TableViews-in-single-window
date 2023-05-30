@@ -14,6 +14,7 @@
 		971F23E02A1D62F0003B622E /* twoTableViewsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971F23DF2A1D62F0003B622E /* twoTableViewsTests.swift */; };
 		971F23EA2A1D62F0003B622E /* twoTableViewsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971F23E92A1D62F0003B622E /* twoTableViewsUITests.swift */; };
 		971F23EC2A1D62F0003B622E /* twoTableViewsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971F23EB2A1D62F0003B622E /* twoTableViewsUITestsLaunchTests.swift */; };
+		971F23FD2A1E6F4E003B622E /* tableCellViewOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 971F23FC2A1E6F4E003B622E /* tableCellViewOne.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		971F23E52A1D62F0003B622E /* twoTableViewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = twoTableViewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		971F23E92A1D62F0003B622E /* twoTableViewsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twoTableViewsUITests.swift; sourceTree = "<group>"; };
 		971F23EB2A1D62F0003B622E /* twoTableViewsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twoTableViewsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		971F23FC2A1E6F4E003B622E /* tableCellViewOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableCellViewOne.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				971F23CD2A1D62EE003B622E /* AppDelegate.swift */,
 				971F23CF2A1D62EE003B622E /* ViewController.swift */,
+				971F23FC2A1E6F4E003B622E /* tableCellViewOne.swift */,
 				971F23D12A1D62F0003B622E /* Assets.xcassets */,
 				971F23D32A1D62F0003B622E /* Main.storyboard */,
 				971F23D62A1D62F0003B622E /* twoTableViews.entitlements */,
@@ -253,6 +256,7 @@
 			files = (
 				971F23D02A1D62EE003B622E /* ViewController.swift in Sources */,
 				971F23CE2A1D62EE003B622E /* AppDelegate.swift in Sources */,
+				971F23FD2A1E6F4E003B622E /* tableCellViewOne.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
