@@ -735,7 +735,7 @@
                                                     </textFieldCell>
                                                     <tableColumnResizingMask key="resizingMask" resizeWithTable="YES" userResizable="YES"/>
                                                     <prototypeCellViews>
-                                                        <tableCellView identifier="cellViewID" id="tOD-Tn-Zgm" customClass="tableCellViewOne" customModule="twoTableViews" customModuleProvider="target">
+                                                        <tableCellView identifier="cellViewID1" id="tOD-Tn-Zgm" customClass="tableCellViewOne" customModule="twoTableViews" customModuleProvider="target">
                                                             <rect key="frame" x="8" y="0.0" width="209" height="24"/>
                                                             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                                             <subviews>
